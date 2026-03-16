@@ -1,2 +1,3 @@
 # Galoder
 GLD
+20
